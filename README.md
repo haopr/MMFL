@@ -1,15 +1,15 @@
 #  A Survey of Multimodal Federated Learning: Background, Applications, and Perspectives
 
-This repository provides a comprehensive collection of papers focused on **Multimodal Federated Learning (MMFL)**, with the primary researches already discussed in our latest review. This repository will continue to be updated, and we welcome you to give it a STAR.
+This repository provides a comprehensive collection of papers focused on **Multimodal Federated Learning (MMFL)**, with the primary researches already discussed in our latest review. This repository will continue to be updated, and we welcome you to give it a STAR⭐️.
 
 
 
 **Table of Contents**
 
 - [Survey](#survey)
-- [Unifying Achitectures](#Unifying Achitectures)
+- [Unifying Achitectures](#Unifying-Achitectures)
 - [Applications](#Applications)
-- [Multimodal Datasets](#Multimodal Datasets)
+- [Multimodal Datasets](#Multimodal-Datasets)
 
 
 
@@ -49,6 +49,8 @@ This repository provides a comprehensive collection of papers focused on **Multi
 
 
 ###  🏃‍♂️Human Activity Recognition
+
+
 
 **A unified framework for multi-modal federated learnin **
 
