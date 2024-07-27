@@ -8,7 +8,7 @@ This repository provides a comprehensive collection of papers focused on **Multi
 
 
 
-![](\Fig1.jpg)
+![Unimodal vs Multimodal](https://github.com/haopr/MMFL/blob/main/Fig1.jpg)
 
 
 
