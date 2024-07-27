@@ -4,6 +4,14 @@ This repository provides a comprehensive collection of papers focused on **Multi
 
 
 
+***Multimodal Federated Learning*** is a collaborative training process involving multiple clients, each with diverse modality settings and data, conducting learning tasks without disclosing their local raw data. 
+
+
+
+![](E:\Typora\img\README\Fig1.jpg)
+
+
+
 **Table of Contents**
 
 - [Survey](#survey)
@@ -19,7 +27,7 @@ This repository provides a comprehensive collection of papers focused on **Multi
 
 | Title                                                        | Authors                                                      | Materials                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| A Survey of Multimodal Federated Learning: Background, Applications, and Perspectives | H Pan, XL Zhao, LP He, YC Shi, XG Lin (2024)                 | PUB                                                          |
+| **A Survey of Multimodal Federated Learning: Background, Applications, and Perspectives** | H Pan, XL Zhao, LP He, YC Shi, XG Lin (2024)                 | [PUB](https://link.springer.com/article/10.1007/s00530-024-01422-9) |
 | Multimodal Federated Learning: A Survey                      | L Che, J Wang, Y Zhou, F Ma (2023)                           | [PUB](https://www.mdpi.com/1424-8220/23/15/6986)             |
 | Federated Learning on Multimodal Data: A Comprehensive Survey | YM Lin, Y Gao, MG Gong, SJ Zhang, YQ Zhang, ZY Li (2023)     | [PUB](https://link.springer.com/article/10.1007/s11633-022-1398-0) |
 | Multimodal Federated Learning in Healthcare: a Review        | J Thrasher, A Devkota, P Siwakotai, R Chivukula, P Poudel, C Hu, B Bhattarai, P Gyawali (2023) | [arXiv](https://arxiv.org/abs/2310.09650)                    |
@@ -50,9 +58,9 @@ This repository provides a comprehensive collection of papers focused on **Multi
 
 ###  🏃‍♂️Human Activity Recognition
 
+ 
 
-
-**A unified framework for multi-modal federated learnin **
+**A unified framework for multi-modal federated learning**
 
 *B Xiong, X Yang, F Qi, C Xu*
 
@@ -154,7 +162,7 @@ AAAI, 2024 [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/27909)
 
 ###  🔍️Cross-modal Retrieval
 
-
+ 
 
 **FedCMR: Federated cross-modal retrieval**
 
@@ -174,7 +182,7 @@ ICLR, 2023 [PUB](https://openreview.net/forum?id=Hnk1WRMAYqg)
 
 ### 💬Visual Question Answer
 
-
+ 
 
 **Think locally, act globally: Federated learning with local and global representations**
 
@@ -202,7 +210,7 @@ arXiv, 2024 [arXiv](https://arxiv.org/abs/2312.13508)
 
 ### 🤣Emotion Recognition
 
-
+ 
 
 **Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification**
 
@@ -230,7 +238,7 @@ ACM Transactions on Intelligent Systems and Technology, 202405 [PUB](https://dl.
 
 ### 🧙‍♂️Prompt Learning and Model Finetuning
 
-
+ 
 
 **Pfedprompt: Learning personalized prompt for vision-language models in federated learning**
 
@@ -258,7 +266,7 @@ AAAI, 2024 [PUB](https://ojs.aaai.org/index.php/AAAI/article/view/29007)
 
 ### 📡Internet of Things
 
-
+ 
 
 **Fedfusion: Manifold driven federated learning for multi-satellite and multi-modality fusion**
 
@@ -316,4 +324,14 @@ Data Engineering Bulletin, 2023 [arXiv](https://arxiv.org/abs/2302.13485)
 | MHealth           | mHealthDroid: a novel framework for agile development of mobile health applications | [PUB](https://link.springer.com/chapter/10.1007/978-3-319-13105-4_14) |
 | PTB-XL            | PTB-XL, a large publicly available electrocardiography dataset | [HOME](https://physionet.org/content/ptb-xl/1.0.3/)          |
 | ModelNet40        | 3D ShapeNets: A Deep Representation for Volumetric Shapes    | [PUB](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Wu_3D_ShapeNets_A_2015_CVPR_paper.html) |
+
+
+
+## Citation
+
+If you find the listing and survey useful for your work, please cite the paper:
+
+```
+@
+```
 
