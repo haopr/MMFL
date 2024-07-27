@@ -8,7 +8,7 @@ This repository provides a comprehensive collection of papers focused on **Multi
 
 
 
-![](E:\Typora\img\README\Fig1.jpg)
+![](\Fig1.jpg)
 
 
 
