@@ -332,6 +332,6 @@ Data Engineering Bulletin, 2023 [arXiv](https://arxiv.org/abs/2302.13485)
 If you find the listing and survey useful for your work, please cite the paper:
 
 ```
-@
+@ Pan, H., Zhao, X., He, L. et al. A survey of multimodal federated learning: background, applications, and perspectives. Multimedia Systems 30, 222 (2024). https://doi.org/10.1007/s00530-024-01422-9
 ```
 
